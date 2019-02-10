@@ -5,5 +5,3 @@ def using_for
 		puts "wingardium Leviosa"
 	end
 end
-
-
